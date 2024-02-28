@@ -1,6 +1,6 @@
 {
   "name": "react-native-song-player",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Play and control your favorite tunes seamlessly with the react-native-song-player npm package. This lightweight and versatile library empowers developers to integrate powerful song playback features into their applications effortlessly.",
   "main": "index.js",
   "scripts": {
