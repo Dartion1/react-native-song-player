@@ -69,4 +69,4 @@ Pass the tracks prop with an array of song objects to the IndividualSongScreen c
 <IndividualSongScreen tracks={tracks} />
 ```
 
-![alt text](src/Assets/Images/Profile.png)
+![alt text](Screenshot_2024.02.28_14.35.52.031.png)
